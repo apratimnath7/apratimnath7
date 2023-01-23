@@ -30,6 +30,8 @@
 - 📞 +91 810076125 
 - 📧 apratimnath7@gmail.com
 
+<h2>Note</h2>
+<b>Prinmary account</b> - https://github.com/apratimnath
 <!---
 apratimnath7/apratimnath7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
